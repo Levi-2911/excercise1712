@@ -11,5 +11,6 @@ if ((numbera and numberb) = float)
  Print (f'The total: a + b ={numbera + numberb}')
  Print (f'The product: a x b ={numbera * numberb}')
  Print (f'The difference: a - b ={numbera - numberb}')
+ Print (f'The quotient: a / b ={numbera / numberb}')
 else:
  Print ("Invalid value")
