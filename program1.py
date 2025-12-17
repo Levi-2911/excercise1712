@@ -1,4 +1,4 @@
-print ("Calculate the total of number a and b")
+print ("Basic operations between number a and b")
 
 
 a = input ("Enter the first number")
@@ -9,5 +9,6 @@ numberb = float(b)
 
 if ((numbera and numberb) = float)
  Print (f'The total: a + b ={numbera + numberb}')
+ Print (f'The product: a x b ={numvera * numberb}')
 else:
  Print ("Invalid value")
